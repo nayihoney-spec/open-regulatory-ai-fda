@@ -1,6 +1,6 @@
 ---
 name: open-regulatory-ai-fda
-description: "Use for pharmaceutical regulatory research focused on the United States and FDA, CDER, CBER, OII, historical ORA terminology, eCFR Title 21, FDA guidance, Warning Letters, Form FDA 483 observations, CGMP, biologics, vaccines, blood products, cell and gene therapies, electronic records, data integrity, validation, inspection readiness, regulatory applicability, change impact, or review of U.S. GxP documents."
+description: "Use for pharmaceutical regulatory research focused on the United States and FDA, CDER, CBER, OII, historical ORA terminology, eCFR Title 21, FDA guidance, Warning Letters, Form FDA 483 observations, CGMP, biologics, vaccines, blood products, cell and gene therapies, electronic records, data integrity, validation, inspection readiness, regulatory applicability, change impact, or review of U.S. GxP documents. For questions spanning more than one jurisdiction, use open-regulatory-ai-framework instead."
 ---
 
 # Open Regulatory AI — U.S. FDA
