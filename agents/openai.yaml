@@ -1,0 +1,6 @@
+interface:
+  display_name: "Open Regulatory AI — U.S. FDA"
+  short_description: "U.S. FDA pharmaceutical regulatory research"
+  default_prompt: "Use $open-regulatory-ai-fda to research the applicable current FDA requirements using official U.S. sources."
+policy:
+  allow_implicit_invocation: true
